@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "title": "Classic T-Shirt",
+      "image": "https://photo-cdn2.icons8.com/UAFJKlyWXpLxW9tP8emf86ca34Gy8G53Me7B_byh8ns/rs:fit:288:432/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNTkxLzUzOGFk/MmMwLTEyMzQtNDYw/Ni05YmQ4LTBjNDdh/MWNkNDMxOS5qcGc.webp",
+      "price": 24.99
+    },
+    {
+      "title": "Slim-Fit Jeans",
+      "image": "https://photo-cdn2.icons8.com/n_u2pBNL_cQ48FjmQVD6PYLdB04N7b-nLsOtHaBV17Y/rs:fit:288:432/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvMjc4L2U3MTUw/YzRlLTY0MTktNGQw/My04M2FjLThlMGEw/MzIzNGVlYS5qcGc.webp",
+      "price": 59.99
+    },
+    {
+      "title": "Hooded Sweatshirt",
+      "image": "https://photo-cdn2.icons8.com/qizGDfjcvgGscBIdzAw8hmpVTQfDk34cTgnMs4H-6Vw/rs:fit:288:432/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNTczL2EwNGMx/ODg1LTY4ZjctNDZh/ZS04NjdmLTUwNTgz/NWRhZjJmZS5qcGc.webp",
+      "price": 39.99
+    },
+    {
+      "title": "Crewneck Sweater",
+      "image":"https://photo-cdn2.icons8.com/DDUw0eHuv7Idve0gvhTQMmQbg3y3B4JVnwNOVv5CPUk/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvMzEzLzA4OGM3/NDE5LWIwYzItNDM2/ZS05YjlhLWJlYmIy/N2MyMTkyZC5qcGc.webp",
+      "price": 49.99
+    },
+    {
+      "title": "Chino Shorts",
+      "image": "https://photo-cdn2.icons8.com/dx6BHIBXgKNQt8GmB8V-qk7P-tcPtz_r0lZ0NYd4DNY/rs:fit:288:216/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNDQvZjNjNWJk/MTMtZWQwZS00Y2M0/LWI2M2QtOTY3MWZi/NTUyMWUyLmpwZw.webp",
+      "price": 34.99
+    },
+    {
+      "title": "Leather Belt",
+      "image": "https://photo-cdn2.icons8.com/Zvp_oVp080OV1bUOJSnS3N1FPKRNcz2qYr5_1gpZz5w/rs:fit:288:431/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvODcyLzVjMWM5/MGFmLWEyZGItNDFl/Ni05MDkyLTE3ZmZk/NTRkNmFiZC5qcGc.webp",
+      "price": 29.99
+    }
+  ]
+}

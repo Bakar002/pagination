@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "title": "Smartphone",
+            "image": "https://photo-cdn2.icons8.com/xZcsnbUxGpGeD-WQBKUdW7VFctaf01hHeKLdF9ES-Z4/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5l/eHRlcm5hbC9hMmE0/Mi9jMjJhNzQyNjBi/Y2Y0ODkyOTE3MTE4/YjlmYTU2NjAwZS5q/cGc.webp",
+           "price": 599.99
+          },
+          {
+            "title": "Laptop",
+            "image": "https://photo-cdn2.icons8.com/FsDe1yemDt9HL4fonybYs6z2m5xY6y6-tbHJidA2cjg/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5l/eHRlcm5hbC9hMmE0/Mi8xYTRkNWFlNjA1/NjY0M2E2OThlODZh/ZmQyYzg5OGY0Ny5q/cGc.webp",
+            "price": 1199.99
+          },
+          {
+            "title": "Tablet",
+            "image": "https://photo-cdn2.icons8.com/OhXEm5Sq6shzWG1q4lKXVGYMFCdePsAVsjPY39P1LqI/rs:fit:288:191/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5l/eHRlcm5hbC9hMmE0/Mi84NTFjY2FmMmI2/MDc0ZDk4OTA4Yjgy/MDUwM2ZlNzNhYy5q/cGc.webp",
+            "price": 499.99
+          },
+          {
+            "title": "Smartwatch",
+            "image": "https://photo-cdn2.icons8.com/49Wx-zJo2AvBfI0wKvc7qPGiM3H5St86OwsUARQFDJM/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5l/eHRlcm5hbC9hMmE0/Mi9hMTIzZmY5MmQ5/MWU0YTkwODAwYTMz/YzNkMTc3YjU5YS5q/cGc.webp",
+            "price": 299.99
+          },
+          {
+            "title": "Headphones",
+            "image": "https://photo-cdn2.icons8.com/UFerWSgV90SgKiEoEehvigzRLftRX05w_gWkyEYJR1k/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5l/eHRlcm5hbC9hMmE0/Mi9lMmY1ZWJhMmU5/YWM0ZmM1OGFiYmQ0/M2VlNDUwMWFhYi5q/cGc.webp",
+            "price": 149.99
+          }
+        ]
+      }
