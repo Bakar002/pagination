@@ -1,0 +1,20 @@
+{
+    "products": [
+      {
+        "title": "Facial Cleanser",
+        "image": "https://example.com/images/facial-cleanser.jpg",
+        "price": 19.99
+      },
+      {
+        "title": "Body Lotion",
+        "image": "https://example.com/images/body-lotion.jpg",
+        "price": 14.99
+      },
+      {
+        "title": "Hair Conditioner",
+        "image": "https://example.com/images/hair-conditioner.jpg",
+        "price": 12.99
+      }
+    ]
+  }
+  

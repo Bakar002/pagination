@@ -1,0 +1,131 @@
+{
+    "products": [
+      {
+        "title": "Facial Cleanser",
+        "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xlYW5zZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "price": 19.99
+      },
+      {
+        "title": "Body Lotion",
+        "image": "https://images.unsplash.com/photo-1629198726018-604230bdb091?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2xlYW5zZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "price": 14.99
+      },
+      {
+        "title": "Hair Conditioner",
+        "image": "https://images.unsplash.com/photo-1604603815783-2bd94c5a819f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGNsZWFuc2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 12.99
+      },
+      {
+        "title": "Smartphone",
+        "image": "https://photo-cdn2.icons8.com/xZcsnbUxGpGeD-WQBKUdW7VFctaf01hHeKLdF9ES-Z4/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5l/eHRlcm5hbC9hMmE0/Mi9jMjJhNzQyNjBi/Y2Y0ODkyOTE3MTE4/YjlmYTU2NjAwZS5q/cGc.webp",
+       "price": 599.99
+      },
+      {
+        "title": "Laptop",
+        "image": "https://photo-cdn2.icons8.com/FsDe1yemDt9HL4fonybYs6z2m5xY6y6-tbHJidA2cjg/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5l/eHRlcm5hbC9hMmE0/Mi8xYTRkNWFlNjA1/NjY0M2E2OThlODZh/ZmQyYzg5OGY0Ny5q/cGc.webp",
+        "price": 1199.99
+      },
+      {
+        "title": "Tablet",
+        "image": "https://photo-cdn2.icons8.com/OhXEm5Sq6shzWG1q4lKXVGYMFCdePsAVsjPY39P1LqI/rs:fit:288:191/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5l/eHRlcm5hbC9hMmE0/Mi84NTFjY2FmMmI2/MDc0ZDk4OTA4Yjgy/MDUwM2ZlNzNhYy5q/cGc.webp",
+        "price": 499.99
+      },
+      {
+        "title": "Smartwatch",
+        "image": "https://photo-cdn2.icons8.com/49Wx-zJo2AvBfI0wKvc7qPGiM3H5St86OwsUARQFDJM/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5l/eHRlcm5hbC9hMmE0/Mi9hMTIzZmY5MmQ5/MWU0YTkwODAwYTMz/YzNkMTc3YjU5YS5q/cGc.webp",
+        "price": 299.99
+      },
+      {
+        "title": "Headphones",
+        "image": "https://photo-cdn2.icons8.com/UFerWSgV90SgKiEoEehvigzRLftRX05w_gWkyEYJR1k/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5l/eHRlcm5hbC9hMmE0/Mi9lMmY1ZWJhMmU5/YWM0ZmM1OGFiYmQ0/M2VlNDUwMWFhYi5q/cGc.webp",
+        "price": 149.99
+      },
+      {
+        "title": "Classic T-Shirt",
+        "image": "https://photo-cdn2.icons8.com/UAFJKlyWXpLxW9tP8emf86ca34Gy8G53Me7B_byh8ns/rs:fit:288:432/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNTkxLzUzOGFk/MmMwLTEyMzQtNDYw/Ni05YmQ4LTBjNDdh/MWNkNDMxOS5qcGc.webp",
+        "price": 24.99
+      },
+      {
+        "title": "Slim-Fit Jeans",
+        "image": "https://photo-cdn2.icons8.com/n_u2pBNL_cQ48FjmQVD6PYLdB04N7b-nLsOtHaBV17Y/rs:fit:288:432/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvMjc4L2U3MTUw/YzRlLTY0MTktNGQw/My04M2FjLThlMGEw/MzIzNGVlYS5qcGc.webp",
+        "price": 59.99
+      },
+      {
+        "title": "Hooded Sweatshirt",
+        "image": "https://photo-cdn2.icons8.com/qizGDfjcvgGscBIdzAw8hmpVTQfDk34cTgnMs4H-6Vw/rs:fit:288:432/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNTczL2EwNGMx/ODg1LTY4ZjctNDZh/ZS04NjdmLTUwNTgz/NWRhZjJmZS5qcGc.webp",
+        "price": 39.99
+      },
+      {
+        "title": "Crewneck Sweater",
+        "image":"https://photo-cdn2.icons8.com/DDUw0eHuv7Idve0gvhTQMmQbg3y3B4JVnwNOVv5CPUk/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvMzEzLzA4OGM3/NDE5LWIwYzItNDM2/ZS05YjlhLWJlYmIy/N2MyMTkyZC5qcGc.webp",
+        "price": 49.99
+      },
+      {
+        "title": "Chino Shorts",
+        "image": "https://photo-cdn2.icons8.com/dx6BHIBXgKNQt8GmB8V-qk7P-tcPtz_r0lZ0NYd4DNY/rs:fit:288:216/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNDQvZjNjNWJk/MTMtZWQwZS00Y2M0/LWI2M2QtOTY3MWZi/NTUyMWUyLmpwZw.webp",
+        "price": 34.99
+      },
+      {
+        "title": "Leather Belt",
+        "image": "https://photo-cdn2.icons8.com/Zvp_oVp080OV1bUOJSnS3N1FPKRNcz2qYr5_1gpZz5w/rs:fit:288:431/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvODcyLzVjMWM5/MGFmLWEyZGItNDFl/Ni05MDkyLTE3ZmZk/NTRkNmFiZC5qcGc.webp",
+        "price": 29.99
+      },
+      {
+        "title": "Basketball",
+        "image": "https://media.istockphoto.com/id/861960130/photo/basketball-ball-isolated-on-white.jpg?b=1&s=170667a&w=0&k=20&c=NfJ-Tb_YFAJ79JoUgOk0SY3tSDFeLXrioSz8mQKixnk=",
+        "price": 24.99
+      },
+      {
+        "title": "Running Shoes",
+        "image": "https://images.unsplash.com/photo-1610969524113-bae462bb3892?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cnVubmluZyUyMHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 99.99
+      },
+      {
+        "title": "Yoga Mat",
+        "image": "https://plus.unsplash.com/premium_photo-1668613403724-40e9280e06d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8eW9nYSUyMG1hdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 29.99
+      },
+      {
+        "title": "Lego Set",
+        "image": "https://images.unsplash.com/photo-1590922739636-036fb9dfbbeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGVnbyUyMHNldHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 49.99
+      },
+      {
+        "title": "Board Game",
+        "image": "https://images.unsplash.com/photo-1629760946220-5693ee4c46ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Ym9hcmQlMjBnYW1lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 29.99
+      },
+      {
+        "title": "Stuffed Animal",
+        "image": "https://images.unsplash.com/photo-1584155828260-3791b07e6afb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3R1ZmZlZCUyMGFuaW1hbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "price": 9.99
+      },
+      {
+        "title": "Maxi Dress",
+        "image": "https://photo-cdn2.icons8.com/ProZgsMeEgZ3dbBZfC2hpaAw2RoKVpSNtxdb3SmOt40/rs:fit:288:432/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvMjU5L2Q4YjA5/MDRmLWMyNzMtNDBk/ZS1hMmJkLTYyZjY5/NTI0ZTI1My5qcGc.webp",
+        "price": 59.99
+      },
+      {
+        "title": "Leather Jacket",
+        "image": "https://photo-cdn2.icons8.com/63mxN9cYDz0hfd2cJu5PRA1PCV9h76J3EWLMP9tqeu4/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvMjc5LzVkOWEz/YzYzLWJkOTgtNDA5/NS05YjIyLWIxNTY5/NWY5NGI3MS5qcGc.webp",
+        "price": 129.99
+      },
+      {
+        "title": "Skinny Jeans",
+        "image": "https://photo-cdn2.icons8.com/61gC3bZkPqdFa-8xLJC0Zc6NVw_5GR0UEfiJGEHkQX8/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNTE1L2MzNjQx/MzhmLTMzMTUtNDcx/OC04ZmE2LWU2M2I0/OGYxZGM0NC5qcGc.webp",
+        "price": 39.99
+      },
+      {
+        "title": "Sweater",
+        "image": "https://photo-cdn2.icons8.com/BOrEeJTdmu_T-ZqUKIXRsYjT5Tj6TTPQK5VELFL11zY/rs:fit:288:432/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNjI4LzZkNGQ0/MjYwLTNlN2ItNGNh/NC05YzA2LWE1Y2Q4/ZmEyYTg5Mi5qcGc.webp",
+        "price": 49.99
+      },
+      {
+        "title": "Blouse",
+        "image": "https://photo-cdn2.icons8.com/90CsmoxFxYaWZGQo-dxghcmwkpXlcAvoH-sMhGyKxWw/rs:fit:288:432/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvMjIvYTVhNmZh/YWQtMDNhZC00NzQ3/LThmNmQtMjliN2Rj/MjQ5Y2ZlLmpwZw.webp",
+        "price": 29.99
+      }
+
+    ]
+  }
+  
